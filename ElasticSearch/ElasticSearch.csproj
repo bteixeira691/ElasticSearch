@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="NEST" Version="6.5.0" />
+    <PackageReference Include="NEST.JsonNetSerializer" Version="6.5.0" />
+    <PackageReference Include="NetFusion.Settings" Version="3.2.127" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StudentCore\StudentCore.csproj" />
+  </ItemGroup>
+
+</Project>
