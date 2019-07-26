@@ -6,9 +6,9 @@ Runing ElasticSearch in Docker, associate with SQL.
 
 ## Prerequisites
 
-.NetCore
-ElasticSearch 
-SQL
-EF
-Docker
-Design Patterns
+* .NetCore
+* ElasticSearch 
+* SQL
+* EF
+* Docker
+* Design Patterns
